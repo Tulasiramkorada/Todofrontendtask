@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Home",
+    "path": "/Home",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todoframe\\\\pages\\\\Home.vue",
+    "chunkName": "pages/Home"
+  },
+  {
+    "name": "Login",
+    "path": "/Login",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todoframe\\\\pages\\\\Login.vue",
+    "chunkName": "pages/Login"
+  },
+  {
+    "name": "Mytodo",
+    "path": "/Mytodo",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todoframe\\\\pages\\\\Mytodo.vue",
+    "chunkName": "pages/Mytodo"
+  },
+  {
+    "name": "Regestration",
+    "path": "/Regestration",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todoframe\\\\pages\\\\Regestration.vue",
+    "chunkName": "pages/Regestration"
+  },
+  {
+    "name": "Todo",
+    "path": "/Todo",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todoframe\\\\pages\\\\Todo.vue",
+    "chunkName": "pages/Todo"
+  },
+  {
+    "name": "Update",
+    "path": "/Update",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todoframe\\\\pages\\\\Update.vue",
+    "chunkName": "pages/Update"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todoframe\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
